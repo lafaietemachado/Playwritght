@@ -27,7 +27,3 @@ test.beforeEach(async ({ page }) => {
     await page.getByRole('button', { name: 'login' }).click()
     await page.getByRole('button', { name: 'OK' }).click()
   })
-
-  test.afterEach(async ({ page }) => {
-    // codigo de after aqui
-  })

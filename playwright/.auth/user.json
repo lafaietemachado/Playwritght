@@ -1,0 +1,360 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANOXeZyY9qx760vjUyrYr82ZlllcGkJS8eDAiNXp1Q_L_l4ahiCNuFWmDDmLq3kGMpkXIYBn9FuXlghP5XQDiu8",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1749050382.351585,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinityCORS",
+      "value": "ed7ea5d9e2b7a83251b596d1351d0813",
+      "domain": "my.api.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "ed7ea5d9e2b7a83251b596d1351d0813",
+      "domain": "my.api.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__RequestVerificationToken",
+      "value": "EcKDsw3wLTAaPTG38uqDFaHZoBKTuurMTXDYuWPbv6b82APcw5KgEKSWUe7Nqz9AiHqiibZvzE0Mo_bcConG2N6DT1s9WFNKR8q4Salu1Fk1",
+      "domain": "my.api.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsent",
+      "value": "{stamp:%27dUfgMLqoSZK81FebK3XpD4/4kpWaPG6fXXQahSvGQMgb4HbSsg2SNA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27implied%27%2Cver:1%2Cutc:1733498378865%2Cregion:%27br%27}",
+      "domain": "my.api.org",
+      "path": "/",
+      "expires": 1765034378,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.366552743.1733498380",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1733584785,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-1277976-51",
+      "value": "1",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1733498439,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1733499280.014307,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "DMVRUGYD78uVXmWl5PGx4E5rzqcj0qANzqu_bQ6_VI0-1733498379-1.0.1.1-oaffRzbdl92HHH2C6z4NeOlnOd9hYSQcZGiBDaPZ4cm5eNByTLXGwwykszarxtxm2oWmr5kp1uoZJYBqBDe.bA",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": 1733500180.387981,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "rqjpVxrJ99PevrrVcJ.Jej1gYXL6SuVQpjxECIHGwu0-1733498379736-0.0.1.1-604800000",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "0db51866-d1fc-4fb9-b679-605f1e65d7ce",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1741274385.893444,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&7678193a-75e7-457c-8101-d0190b53be8e\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1765034385.893604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST00:s=T:r=T:a=T:p=T:g=3548:u=1:x=1:i=1733498379:t=1733584779:v=2:sig=AQEqrzpcSjVpuiNqOGLxLvpnmvh-gLaR\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1733584781.469663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLCU703RbVytAAAAZOcjh6HQgw27knXNL19LJWpTB2CDrjbXq7m9OVSZP3b5f5i3qOM2LgyT-JI_w",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1736090380.633623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQLERjKyTWD4ZAAAAZOcjh6H_OGzfcl73NqMhQ3NkYdnSLJ3Eu9gzfBgVpxCvDS16go8zH9o5sQokZnybj-54Q",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1736090380.633721,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&2024120615194042e6ebea-7640-482b-8cbe-208f72c1793aAQGk3g-eqyiIFnSu2Hm2hxnBCKwQi4K-\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1765034380.880465,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "wOXsuBkdDVP6GQG1neHEKbg1EtyIExf96wXIcHlrQRQ-1733498380-1.0.1.1-.A42Uv2Ahc8qC1RwO7LKnYljumBwSarUn8bpYAyFtCdK5BwyBNt2tbu6vHBmUWG95309szF71TkrtxWTikO3nQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1733500180.880625,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "23321061.bbb9a0453c222c5f9aa8bf92c89cc462.1733498381101.1733498381101.1733498381101.1",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1749050385,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "bbb9a0453c222c5f9aa8bf92c89cc462",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1749050385,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "3F_pbAyV_GSNp6nmmrJ9CbJ2Ml7hdmCrQcABOD73Yd8-1733498380-1.0.1.1-Z9980bTqajDnloGnFgxb4OP38Q2IGyGj5_8j6gOgMkxatK0VQqeFCXM9WTG4.4fPnLpfDA.882ooTm9FWCvLtw",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": 1733500181.35991,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "8dRgZZGQX_hBCwqVRRc4QikKZuqMrVW1qCMfFJqDbTo-1733498380707-0.0.1.1-604800000",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1733498381492.12283389242699297",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1741274385,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".ASPXAUTH",
+      "value": "1739811AD45D5C70C6FB287A5B0179F8DB25A1846AD323CD28759EA2231203E1E7A7B1C343922171CE2A5F22FFE580A1E9286B79CF5A677FFBCE3241B4C592B77A2AEE14EA819A1CC78740CF6AAE8778CAC2D9C5FF9989C0465D7A9AA70F6B72FDD9FB4F00E4C92E67A45588EE1DC311B7F82D228E010468E959F84E6253C4AB",
+      "domain": "my.api.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xids",
+      "value": "102oEcLbrj2QvCsr3JwGjWScQ",
+      "domain": "energyapi.okta.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "102jVLCpaqGRWKFvkYl4z5ONQ",
+      "domain": "energyapi.okta.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "1974C16B47F6184E9456C995C37D7B7B",
+      "domain": "energyapi.okta.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DT",
+      "value": "DI147kFQrZySveor650YoXh4w",
+      "domain": "energyapi.okta.com",
+      "path": "/",
+      "expires": 1768058383.58361,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "proximity_5856a6e5bbb86d0c5832d304a1314ccf",
+      "value": "eyJ6aXAiOiJERUYiLCJwMnMiOiJIcjY5dUhqMTNnejY5Q0txTXA5Tkh3IiwicDJjIjoxMDAwLCJ2ZXIiOiIxIiwiZW5jIjoiQTI1NkdDTSIsImFsZyI6IlBCRVMyLUhTNTEyK0EyNTZLVyJ9.3EIi7NhhCXuvpxiDHX-p0BSMQqCIHeTqASnINoIOJdwpiAgG3JYPIw.JHH6Op7JaQSW66K4.pQZIV9FiHkZ6Df-685xG17x9wiEauxSajQ8CkO7PTPmL6Gxvnuxz5ZjnDdFdea-Z9CjAcyfYnpoC3vrIa3hK8wXcRGRu_XXlgYiBgJgP30ZVpHg9ayvdCO9fvgs8KCJzULxW-O9kEQKkwcm5jkaTuyFXn62BnEPTlQb_Xh2SiP8BkQ.GYPvBq31jtAKcUc8t-afMQ",
+      "domain": "energyapi.okta.com",
+      "path": "/",
+      "expires": 1765034383.583659,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.25497853.1733498379",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1768058385.363034,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_2WW21MGZDT",
+      "value": "GS1.1.1733498379.1.1.1733498385.54.0.0",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1768058385.408071,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "23321061.2.1733498381101",
+      "domain": ".api.org",
+      "path": "/",
+      "expires": 1733500185,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://my.api.org",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1733498381423"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ANOXeZxnrf_MZUjRCIDtBCqye-ZHsTtniU8ReGuXzoBSGyGmDbWZegZV10OzahSpDGzMoXeCH0IzT_dF4xmNgqYD-edQc1WbbeTmiKHwkONrEukuv5t8mDVTM_WPG9L7"
+        },
+        {
+          "name": "li_adsId",
+          "value": "ee29207f-b898-4ad3-949c-ec4438716aee"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "bHhycWRhdTRjM3N3"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aANDSrBnwU-Atx7VV_iS9SZcbZCuBB-ILJW2WM_DyDZW9r0F6vFdOJYyb_t4ooeaAgz9g6gk"
+        }
+      ]
+    }
+  ]
+}
